@@ -1,0 +1,12 @@
+[submodule "lcsr_ros_orocos_tools"]
+	path = lcsr_ros_orocos_tools
+	url = git@github.com:jhu-lcsr/lcsr_ros_orocos_tools.git
+[submodule "lcsr_tf_tools"]
+	path = lcsr_tf_tools
+	url = git@github.com:jhu-lcsr/lcsr_tf_tools.git
+[submodule "terse_roscpp"]
+	path = terse_roscpp
+	url = git@github.com:jhu-lcsr/terse_roscpp.git
+[submodule "rosbuild_xenomai"]
+	path = rosbuild_xenomai
+	url = git@github.com:jhu-lcsr/rosbuild_xenomai.git
